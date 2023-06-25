@@ -1,7 +1,6 @@
 ##### WGUPS #######################
 ##### Jeffrey Day #################
 ##### C950 Data Strucs & Algos II #
-##### WGUID:001219603 #############
 ##### 1/21/2022 ###################
 import csv_reader
 import distance
